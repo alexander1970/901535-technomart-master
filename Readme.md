@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Alexander Shloma](https://up.htmlacademy.ru/htmlcss/23/user/901535).
-* Наставник: Евгений Старшинов.
+* Наставник: [Евгений Старшинов](https://htmlacademy.ru/profile/id100874).
 
 ---
 
